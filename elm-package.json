@@ -1,7 +1,7 @@
 {
     "version": "1.1.1",
     "summary": "DOM helpers for managing focus and scrolling.",
-    "repository": "http://github.com/wzrad/dom.git",
+    "repository": "http://github.com/elm-lang/dom.git",
     "license": "BSD3",
     "source-directories": [
         "src"
